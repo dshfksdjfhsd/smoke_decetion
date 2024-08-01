@@ -1,1 +1,3 @@
 ![Fire smoke detection demo](https://github.com/dshfksdjfhsd/smoke_detection/blob/main/video.gif)
+Fire smoke detection demo,Fine-tuning based on yolo v5.
+
